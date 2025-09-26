@@ -1,0 +1,13 @@
+@media screen and (max-width: 1200px) {
+  #nav {
+    display: none;
+  }
+
+  #mobile-nav {
+    display: flex;
+  }
+
+  #home .section-content {
+    gap: 0;
+  }
+}

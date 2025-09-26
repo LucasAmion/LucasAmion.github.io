@@ -1,0 +1,7 @@
+{
+  "tinymist.exportPdf": "onSave",
+  "tinymist.outputPath": "assets/lucas-amion-cv.pdf",
+  "tinymist.fontPaths": [
+    "cv/fonts"
+  ]
+}
