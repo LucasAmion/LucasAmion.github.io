@@ -44,6 +44,19 @@ Ingeniero Civil en Computación egresado de la Universidad de Chile, con abundan
 = #smallcaps[Experiencia Laboral]
 
 #resume-entry(
+  title: "Software Engineer",
+  description: "Abaqus Solutions",
+  date: "Noviembre 2025 - Actualidad"
+)
+#resume-item[
+  Actualmente me desempeño como Ingeniero de Software en Abaqus, donde trabajo en una plataforma de administración de fondos mutuos que gestiona el ciclo de vida completo de los clientes — apertura de cuentas, aportes, rescates y valorización diaria de las inversiones — e integra a bancos, billeteras digitales y administradoras de fondos mediante fachadas de integración.
+  Algunos de mis logros importantes son:
+  - Implementación de la infraestructura como código (IaC) en AWS (Terraform, Kubernetes, Helm y Argo CD bajo un modelo GitOps), incorporando autoscaling con Karpenter y optimizaciones de costos y seguridad de red del clúster.
+  - Rediseño de la arquitectura hacia un producto multi-cliente, migrando de un sistema acoplado a un único cliente a software empaquetado y desplegable por cliente, mediante un manifiesto de composición declarativo, imágenes y librerías versionadas por cliente, y colas de procesamiento asíncrono independientes por servicio.
+  - Ampliación de la lógica de negocio del backend, construido en Python con Django REST Framework, Celery y Docker: implementé la máquina de estados del onboarding de clientes, los handlers de integración con los sistemas externos, nuevos endpoints de la API y el procesamiento asíncrono por lotes de las operaciones del fondo.
+]
+
+#resume-entry(
   title: "Trabajo de Título",
   description: "Independiente",
   date: "Julio 2024 - Julio 2025",
@@ -144,9 +157,10 @@ Ingeniero Civil en Computación egresado de la Universidad de Chile, con abundan
 #resume-skill-item(
   "Librerías/Frameworks",
   (
+    "Django",
+    "Celery",
     "React",
     "Tailwind",
-    "Django",
     "FastAPI",
     "LangChain",
     "Pandas",
@@ -158,6 +172,10 @@ Ingeniero Civil en Computación egresado de la Universidad de Chile, con abundan
 #resume-skill-item(
   "Otros",
   (
+    "Terraform",
+    "AWS",
+    "Kubernetes",
+    "Helm",
     "Docker",
     "Git",
     "Redis",
@@ -166,6 +184,7 @@ Ingeniero Civil en Computación egresado de la Universidad de Chile, con abundan
     "Visual Studio",
     "CMake",
     "Godot Engine",
+    "QGIS",
   ),
 )
 \

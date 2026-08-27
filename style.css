@@ -340,6 +340,10 @@ nav a:focus {
   list-style: inside disc;
 }
 
+.experience-entry li {
+  text-wrap: pretty;
+}
+
 /* EDUCATION SECTION */
 .education-container {
   margin: 2.5rem;
