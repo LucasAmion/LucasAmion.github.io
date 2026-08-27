@@ -207,7 +207,7 @@ Ingeniero Civil en Computación egresado de la Universidad de Chile, con abundan
 #resume-item[
   Plugin de QGIS enfocado en paleogeografía que permite reconstruir la topografía y la batimetría de la Tierra en era geológicas antiguas.
   - Tecnologías utilizadas: QGIS, GPlates, Python, Qt.
-  - Links: ~ #fa-icon("github", size: 9pt) #link("https://github.com/LucasAmion/terra-antiqua"), ~ #fa-icon("globe", size: 9pt) #link("https://www.paleoenvironment.eu/wordpress/terra-antiqua/")
+  - Links: ~ #fa-icon("github", size: 9pt) #link("https://github.com/LucasAmion/terra-antiqua"), ~ #fa-icon("globe", size: 9pt) #link("https://jaminzoda.github.io/terra-antiqua-documentation/")
 ]
 
 #resume-entry(
