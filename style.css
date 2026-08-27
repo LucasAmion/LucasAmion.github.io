@@ -313,15 +313,8 @@ nav a:focus {
   margin: 2.5rem;
   background-color: #2a3441;
   overflow-y: auto;
-  /* Hide scrollbar for Chrome, Safari and Opera */
-  ::-webkit-scrollbar {
-    display: none;
-  }
-
-  -ms-overflow-style: none;
-  /* IE and Edge */
-  scrollbar-width: none;
-  /* Firefox */
+  scrollbar-color: #0b946b #1f2937;
+  scrollbar-width: thin;
 }
 
 .experience-entry {
@@ -352,15 +345,8 @@ nav a:focus {
   margin: 2.5rem;
   background-color: #2a3441;
   overflow-y: auto;
-  /* Hide scrollbar for Chrome, Safari and Opera */
-  ::-webkit-scrollbar {
-    display: none;
-  }
-
-  -ms-overflow-style: none;
-  /* IE and Edge */
-  scrollbar-width: none;
-  /* Firefox */
+  scrollbar-color: #0b946b #1f2937;
+  scrollbar-width: thin;
 }
 
 .education-entry {
