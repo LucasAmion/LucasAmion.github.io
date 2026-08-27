@@ -5,7 +5,7 @@
     firstname: "Lucas",
     lastname: "Amion",
     email: "lamion@dcc.uchile.cl",
-    homepage: "https://lucasamion.github.io/",
+    homepage: "https://lucas-amion.cl/",
     phone: "(+56) 9 54178172 \n",
     github: "LucasAmion",
     // twitter: "",

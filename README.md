@@ -2,4 +2,4 @@
 
 Código fuente de mi página web personal y curriculum.
 
-> [lucasamion.github.io](https://lucasamion.github.io/)
+> [www.lucas-amion.cl](https://www.lucas-amion.cl/)
